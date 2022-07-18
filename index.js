@@ -46,10 +46,8 @@ const questions = [
         "The Artistic License 2.0",
         "Mozilla Public License 2.0",
         "ISC License (ISC)",
-        "Eclipse Public License 1.0",
-    ],
+        "Eclipse Public License 1.0",],
     }, 
-
     {
         type: "input",
         name: "username",
@@ -59,8 +57,8 @@ const questions = [
         type: "input",
         name: "repo",
         message: "Please provide your e-mail:	
-    },];
-
+    },
+    ];
 
 // TODO: Create a function to write README file
 
@@ -80,6 +78,7 @@ function init() {
 };
 
 // Function call to initialize app
+
 init()
 .then(userInput => {
     return generateMarkdown(userInput);
