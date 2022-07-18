@@ -10,13 +10,6 @@ SO THAT I can quickly create a professional README for a new project
 
 ```
 
-I have attempted this project to better understand the vast use of JavaScript and Api's.
-
-I wasn't able to understand and complete the task.
-
- - [For a full web description of the SimpleCalendar](...)
- - [For a full github description of the SimpleCalendar](...)
-
 # Features
 
 ```
